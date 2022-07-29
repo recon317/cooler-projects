@@ -1,4 +1,4 @@
-###File Size Checker
+###File Size and Directory Size
 import os, sys
 
 def fileSize(size):
